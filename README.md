@@ -1,3 +1,4 @@
+
 """
 mouse_juggler.py
 ----------------
@@ -13,6 +14,11 @@ IMPORTANT NOTES
 - Intended for legitimate use-cases (kiosk, presentation, testing). Do NOT use to bypass
   workplace/school monitoring policies or to deceive time-tracking systems.
 - Requires Python and the `pyautogui` package installed:
+    pip install pyautogui
+  
+REQUIREMENTS
+- Python 3 installed on your system.
+- Install pyautogui via terminal before running:
     pip install pyautogui
 """
 
